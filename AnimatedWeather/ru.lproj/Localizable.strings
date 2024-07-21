@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  AnimatedWeather
+
+  Created by Yernur Adilbek on 7/21/24.
+  
+*/
+
+day = "День";
+night = "Ночь";
+rainy = "Дождливо";
+snowy = "Снежно";
